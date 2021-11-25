@@ -2,7 +2,7 @@
 
 - 🐱‍👤 I’m currently learning Phyton, JavaScript, HTML and CSS.
 - 📫 How to reach me: gustavo.singeski@gmail.com
-- ✌  Fun fact: I like cats
+-  ✌ Fun fact: I like cats
 
 <div align="center">
   <a href="https://github.com/GustavoZSin">
