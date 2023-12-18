@@ -37,7 +37,7 @@
 
 <a href="https://github.com/GustavoZSin/github-readme-stats">
   <img height=50% align="center" src="https://github-readme-streak-stats.herokuapp.com?user=GustavoZSin&theme=dracula&hide_border=true&mode=weekly&border_radius=10" />
-  <img height=50% align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GustavoZSin&layout=compact&langs_count=8&hide_border=true&card_width=320&theme=dracula" />
+  <img height=50% align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GustavoZSin&layout=compact&langs_count=8&hide_border=true&card_width=50%&theme=dracula" />
 </a>
 
 </div>
