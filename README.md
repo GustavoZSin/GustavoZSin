@@ -25,7 +25,7 @@
   ![Visual Studio](https://img.shields.io/badge/Visual_Studio-593f82?style=for-the-badge&&logo=visual-studio&logoColor=white)&nbsp;
   ![VScode](https://img.shields.io/badge/VsCode-4285f4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
   ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
-  ![Notion](https://img.shields.io/badge/VsCode-57c76e?style=for-the-badge&logo=notepad%2B%2B&logoColor=white)&nbsp;&nbsp;&nbsp;
+  ![Notepad++](https://img.shields.io/badge/Notepad++-57c76e?style=for-the-badge&logo=notepad%2B%2B&logoColor=white)&nbsp;&nbsp;&nbsp;
 
 ## Contacts: 
   <div>
