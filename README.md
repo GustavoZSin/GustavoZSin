@@ -31,6 +31,7 @@
   <div>
     <a href = "mailto:gustavo.singeski@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/gustavo-zampieri-singeski-0326001ba" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="http://wa.me/54999855258" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-25c861.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   </div>
   
 ---
