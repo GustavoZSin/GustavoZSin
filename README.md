@@ -1,8 +1,14 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=header"/> 
-<img align="left" alt="pic" height="175" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/889344681593425982/913537257540034610/download20211104181028.png">
+
 
 # Hi there, I'm Gustavo!
+
+<img align="left" alt="pic" height="175" style="border-radius:50px;" src="https://github.com/GustavoZSin/Image/blob/main/download20240504201028.png">
+ <!-- Conjunto de asteriscos para remover a linha -->
+
 <p align="left">I'm a junior developer passionate about creating efficient and robust solutions. Currently on the journey to improve my skills, I seek to explore the vast world of software development. Feel free to explore my repositories and don't hesitate to get in touch for collaboration or discussion!</p>&nbsp;&nbsp;&nbsp;
+
+<br><br><br>
 
 ## My Skills
 #### Main Stack:
